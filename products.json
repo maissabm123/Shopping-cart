@@ -1,0 +1,68 @@
+{
+  "items": [
+    {
+      "sys": { "id": "1" },
+      "fields": {
+        "title": "Iphone 14 pro max",
+        "price": 3000,
+        "image": { "fields": { "file": { "url": "./images/product-1.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "2" },
+      "fields": {
+        "title": "Earphone bluetooth",
+        "price": 180,
+        "image": { "fields": { "file": { "url": "./images/product-2.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "3" },
+      "fields": {
+        "title": "TV Smart",
+        "price": 2000,
+        "image": { "fields": { "file": { "url": "./images/product-3.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "4" },
+      "fields": {
+        "title": "Headset bluetooth",
+        "price": 300,
+        "image": { "fields": { "file": { "url": "./images/product-4.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "5" },
+      "fields": {
+        "title": "Fridge",
+        "price": 4899,
+        "image": { "fields": { "file": { "url": "./images/product-5.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "6" },
+      "fields": {
+        "title": "Oven",
+        "price": 1299,
+        "image": { "fields": { "file": { "url": "./images/product-6.webp" } } }
+      }
+    },
+    {
+      "sys": { "id": "7" },
+      "fields": {
+        "title": "Washing machine",
+        "price": 1599,
+        "image": { "fields": { "file": { "url": "./images/product-7.jpg" } } }
+      }
+    },
+    {
+      "sys": { "id": "8" },
+      "fields": {
+        "title": "Moulinex",
+        "price": 499,
+        "image": { "fields": { "file": { "url": "./images/product-8.webp" } } }
+      }
+    }
+  ]
+}
